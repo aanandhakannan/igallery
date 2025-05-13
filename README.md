@@ -147,7 +147,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 
-![Uploading Screenshot 2025-05-13 101948.png…]()
+
+![Screenshot 2025-05-13 101948](https://github.com/user-attachments/assets/1c43a6c4-8c1a-4dc3-9d7b-ed1490c7a0d4)
 
 
 ## RESULT:
